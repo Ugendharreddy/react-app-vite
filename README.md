@@ -1,1 +1,1 @@
-# react-app-vite
+# react-ts-app-vite
