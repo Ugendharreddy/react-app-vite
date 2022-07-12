@@ -8,11 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "enjam-react-ts-boilerplate": "^1.0.4",
+    "enjam-vite-react-library": "0.0.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@types/node": "^18.0.3",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
